@@ -1,4 +1,5 @@
 /**
+ * vue2 静态标记代码
  * source code:https://github.com/vuejs/vue/blob/v2.6.12/src/compiler/optimizer.js
  */
 export function optimize (root, options) {
